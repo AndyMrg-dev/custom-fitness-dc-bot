@@ -1,6 +1,6 @@
 # Ronnie Coleman Bot
 
-A Ronnie Coleman-themed Discord bot built for my server, featuring calorie and protein tracking, macro estimations, custom training plans, a boxing interval timer, basic moderation, and a mini-game.
+This is a Ronnie Coleman-themed Discord bot built for my server, featuring calorie and protein tracking, macro estimations, custom training plans, a boxing interval timer, basic moderation, and a mini-game.
 
  Commands
 

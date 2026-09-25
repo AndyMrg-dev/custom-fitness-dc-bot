@@ -93,7 +93,7 @@ async def main():
             except Exception as e:
                 print(f"❌ Failed loading {cog}: {e}")
         
-        await bot.start('DISCORD BOT TOKEN HERE')
+        await bot.start('your-token-here')
 
 if __name__ == "__main__":
     asyncio.run(main())

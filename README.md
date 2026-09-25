@@ -1,6 +1,6 @@
 # Ronnie Coleman Bot
 
-A Ronnie Coleman-themed Discord bot featuring calorie & protein tracking, macro calculations, training plans, a boxing interval timer, server moderation, and a little game.
+A Ronnie Coleman-themed Discord bot featuring calorie & protein tracking, macro calculations, training plans, a boxing interval timer, server moderation, and a mini game.
 
  Commands
 
@@ -36,7 +36,7 @@ Your daily totals reset automatically when the date changes on the machine the b
 | Command | What it does |
 | --- | --- |
 | `!ron quote` | Random Ronnie quote |
-| `!ron fight <@opponent>` | Starts a fight against another member. The outcome is random |
+| `!ron fight <@opponent>` | Starts a fighing mini game |
 | `!ron stats [@member]` | Shows wins, losses and win rate |
 
  Setup

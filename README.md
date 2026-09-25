@@ -36,7 +36,7 @@ Your daily totals reset automatically when the date changes on the machine the b
 | Command | What it does |
 | --- | --- |
 | `!ron quote` | Random Ronnie quote |
-| `!ron fight <@opponent>` | Starts a fighing mini game |
+| `!ron fight <@opponent>` | Starts a fighting mini game |
 | `!ron stats [@member]` | Shows wins, losses and win rate |
 
  Setup

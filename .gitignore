@@ -1,0 +1,19 @@
+﻿# Runtime data 
+bot_data.json
+bot_data.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# C# / .NET
+bin/
+obj/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
